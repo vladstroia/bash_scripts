@@ -200,3 +200,4 @@ JavaScript error: resource://gre/modules/ActivityManager.jsm, line 127: NS_ERROR
 JavaScript error: resource://gre/modules/ActivityManager.jsm, line 127: NS_ERROR_NOT_AVAILABLE: 
 JavaScript error: resource://gre/modules/ActivityManager.jsm, line 127: NS_ERROR_NOT_AVAILABLE: 
 JavaScript error: resource://gre/modules/ActivityManager.jsm, line 127: NS_ERROR_NOT_AVAILABLE: 
+# Failed to parse arguments: Unknown option --new-window
